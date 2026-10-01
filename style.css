@@ -9,6 +9,7 @@ body {
     background-color: #000000;
     color: #ffffff;
     line-height: 24px;
+    letter-spacing: 0.5px;
 }
 
 .navbar {
@@ -28,6 +29,7 @@ body {
     color: #ffffff;
     font-size: 20px;
     letter-spacing: 1px;
+    cursor:default;
 }
 
 .nav-links {
@@ -96,6 +98,7 @@ body {
     text-align: center;
     padding-top: 4px;
     padding-bottom: 4px;
+    opacity: 0.8;
 }
 
 .hero h1 {
@@ -143,6 +146,7 @@ body {
     font-size: 18px;
     color: #ffffff;
     text-transform: uppercase;
+    letter-spacing: 1px;
 }
 
 .card p {
@@ -163,6 +167,8 @@ body {
     font-size: 32px;
     margin-bottom: 20px;
     text-transform: uppercase;
+    letter-spacing: 1px;
+    
 }
 
 .download-zone p {
@@ -177,4 +183,10 @@ footer {
     color: #777777;
     font-size: 12px;
     border-top: 1px solid #ffffff;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    opacity: 0.5;
 }
+
+
+
